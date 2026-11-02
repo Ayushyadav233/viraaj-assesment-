@@ -1,0 +1,23 @@
+# AI Property Video Generator Dependencies
+
+# Video Composition & Imaging
+moviepy>=2.0.0.dev2,<=2.2.0; python_version>="3.12"
+pillow>=10.0.0
+numpy>=1.24.0
+imageio-ffmpeg>=0.4.9
+
+# Audio & Voiceover (Edge-TTS with gTTS fallback)
+edge-tts>=6.1.10
+gTTS>=2.5.0
+
+# AI / LLM Script Generation
+google-genai>=1.0.0
+google-generativeai>=0.8.0
+
+# UI & CLI
+streamlit>=1.35.0
+rich>=13.7.0
+
+# Validation & Utilities
+pydantic>=2.6.0
+python-dotenv>=1.0.0

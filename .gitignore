@@ -1,0 +1,24 @@
+# Environment variables & secrets
+.env
+*.env
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Output videos and temporary render files
+output/
+*.mp4
+*.mp3
+*.wav
+temp/
+*.tmp
+
+# IDE & OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

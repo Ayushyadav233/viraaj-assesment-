@@ -1,0 +1,22 @@
+{
+  "name": "The Royal Palms Grand Villa",
+  "location": "Jaypee Greens, Greater Noida",
+  "price": "₹4.50 Cr",
+  "property_type": "5 BHK Independent Luxury Villa",
+  "features": [
+    "5,200 sq.ft. private plot with manicured front lawn",
+    "Double-height living room with floor-to-ceiling glass",
+    "Chef's kitchen with premium German appliances",
+    "Private temperature-controlled rooftop pool",
+    "Spa-inspired master bathroom with Italian marble soaking tub"
+  ],
+  "contact_cta": "Limited units available. Call Realty Assistant: +91 91234 56789 to schedule a private viewing",
+  "images": [
+    "sample_data/images/01_exterior.jpg",
+    "sample_data/images/02_living_room.jpg",
+    "sample_data/images/04_modular_kitchen.jpg",
+    "sample_data/images/05_swimming_pool.jpg",
+    "sample_data/images/07_luxury_bathroom.jpg",
+    "sample_data/images/09_twilight_exterior.jpg"
+  ]
+}

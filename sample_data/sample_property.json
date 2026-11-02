@@ -1,0 +1,23 @@
+{
+  "name": "Emerald Heights Luxury Residences",
+  "location": "Sector 150, Noida Expressway",
+  "price": "₹1.85 Cr Onwards",
+  "property_type": "3 & 4 BHK Luxury Apartments",
+  "features": [
+    "Expansive 2,450 sq.ft. open layout with Italian marble",
+    "Smart European modular kitchen with branded fittings",
+    "Private master suite with designer walk-in wardrobe",
+    "Infinity swimming pool and world-class sports clubhouse",
+    "Panoramic golf-course and expressway facing balconies"
+  ],
+  "contact_cta": "Book your exclusive site tour today. Call +91 98765 43210 or visit realtyassistant.in",
+  "images": [
+    "sample_data/images/01_exterior.jpg",
+    "sample_data/images/02_living_room.jpg",
+    "sample_data/images/04_modular_kitchen.jpg",
+    "sample_data/images/03_master_bedroom.jpg",
+    "sample_data/images/05_swimming_pool.jpg",
+    "sample_data/images/06_balcony_view.jpg",
+    "sample_data/images/09_twilight_exterior.jpg"
+  ]
+}
